@@ -20,6 +20,7 @@ Key Insights:
 🍽️ Most popular restaurant type: Quick Bites
 📍 Area-wise distribution of restaurants and online ordering trends
 📉 Relationship between cost and ratings
+<img width="1323" height="736" alt="image" src="https://github.com/user-attachments/assets/a29d701c-c512-408b-88e7-465e6700b60a" />
 
 2️⃣ Nutrition, Physical Activity & Obesity Analysis
 Key Insights:
@@ -28,6 +29,7 @@ Key Insights:
 🥗 Class-based comparison (OWS, PA, FV)
 📈 Trends of health metrics over time
 🔍 Comparison across age groups and categories
+<img width="1320" height="735" alt="image" src="https://github.com/user-attachments/assets/2e69b1dd-140c-463b-a606-f33d75681b00" />
 
 3️⃣ Breakfast Suggestions Analysis
 Key Insights:
@@ -36,6 +38,7 @@ Key Insights:
 💸 Price vs Nutrition comparison
 🍬 Sugar vs Price relationship
 👥 Distribution across dietary preferences (Omnivore, Vegetarian, Vegan, Pescatarian)
+<img width="1313" height="736" alt="image" src="https://github.com/user-attachments/assets/c6aca889-b49d-49fb-9ea0-e69997b9607c" />
 
 4️⃣ Lifestyle & Nutrition Impact
 Key Insights:
