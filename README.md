@@ -10,7 +10,6 @@ Analyze food consumption patterns and dietary choices
 Understand the relationship between lifestyle and health indicators
 Identify trends in restaurant preferences and ordering behavior
 Provide meaningful insights for better health and nutrition decisions
-
 1️⃣ Dietary Preferences & Averages
 This section focuses on restaurant data and user food choices.
 Key Insights:
@@ -22,7 +21,6 @@ Key Insights:
 📉 Relationship between cost and ratings
 <img width="1317" height="733" alt="image" src="https://github.com/user-attachments/assets/ea7c5eef-83a2-46ab-9f3f-9d945903f857" />
 
-<img width="1323" height="736" alt="image" src="https://github.com/user-attachments/assets/a29d701c-c512-408b-88e7-465e6700b60a" />
 2️⃣ Nutrition, Physical Activity & Obesity Analysis
 Key Insights:
 📊 Average health score: 31.03
@@ -30,8 +28,7 @@ Key Insights:
 🥗 Class-based comparison (OWS, PA, FV)
 📈 Trends of health metrics over time
 🔍 Comparison across age groups and categories
-
-<img width="1320" height="735" alt="image" src="https://github.com/user-attachments/assets/2e69b1dd-140c-463b-a606-f33d75681b00" />
+<img width="1323" height="736" alt="image" src="https://github.com/user-attachments/assets/a29d701c-c512-408b-88e7-465e6700b60a" />
 
 3️⃣ Breakfast Suggestions Analysis
 Key Insights:
@@ -40,8 +37,7 @@ Key Insights:
 💸 Price vs Nutrition comparison
 🍬 Sugar vs Price relationship
 👥 Distribution across dietary preferences (Omnivore, Vegetarian, Vegan, Pescatarian)
-
-<img width="1313" height="736" alt="image" src="https://github.com/user-attachments/assets/c6aca889-b49d-49fb-9ea0-e69997b9607c" />
+<img width="1320" height="735" alt="image" src="https://github.com/user-attachments/assets/2e69b1dd-140c-463b-a606-f33d75681b00" />
 
 4️⃣ Lifestyle & Nutrition Impact
 Key Insights:
@@ -52,6 +48,7 @@ Key Insights:
 🚬 Smoking distribution analysis
 📈 Disease risk trends across age
 👨‍⚕️ Gender-based comparison of health metrics
+<img width="1313" height="736" alt="image" src="https://github.com/user-attachments/assets/c6aca889-b49d-49fb-9ea0-e69997b9607c" />
 
 🛠️ Tools & Technologies
 Power BI – Data visualization and dashboard creation
